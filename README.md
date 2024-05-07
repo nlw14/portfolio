@@ -1,6 +1,6 @@
 # Prerequisites
 
-NodeJS version 16
+NodeJS version 16\
 npm as package manager
 
 # Getting Started with Create React App
